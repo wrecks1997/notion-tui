@@ -1,0 +1,4 @@
+1621178b4176db2bcbebc3068ff4f8f2d2fc7a521112e3beceae4990d90501c9  notion-tui_0.1.0_darwin_amd64.tar.gz
+788ef68bb98ce1bf458ab11203d9900033e43afe1f451f88989bc11d70e4c993  notion-tui_0.1.0_darwin_arm64.tar.gz
+5514acb2b50beb04c12fec8f699168f0834e6221dca70d7d4f2051c7d6e5638e  notion-tui_0.1.0_linux_amd64.tar.gz
+ff7204b6a6950622a67fa253ff73b1defa37b22e739581436d4fe2c9b4a1dd91  notion-tui_0.1.0_linux_arm64.tar.gz
